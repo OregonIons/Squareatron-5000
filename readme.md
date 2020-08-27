@@ -11,3 +11,5 @@ Measurements with power detector show very low long-term drift. Temperature coef
 The output RF power is fixed at around 10dBm depending on frequency. The optional [DAC Board](https://github.com/OregonIons/Squareatron_DAC_Board) provides very fine digital tuning (1dB with 16-bit resolution).  If a larger dynamic range is required, a step attenuator after the squareatron is recommended.
 
 Locking barrel connector is [Switchcraft 760K](http://www.switchcraft.com/Product.aspx?ID=2582).
+
+Enclosure has been designed for mounting squareatron and DAC board: https://github.com/OregonIons/Squareatron_Box
